@@ -1,4 +1,4 @@
-Requisição
+Utilizar essa Requisição para testar no endpoit http://localhost:5126/api/Bonificacao
 
 {
     "PrimeiroNome": "Ricardo",
