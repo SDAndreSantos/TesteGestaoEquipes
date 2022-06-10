@@ -1,0 +1,27 @@
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\appsettings.json
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\Teste RH.exe
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\Teste RH.deps.json
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\Teste RH.runtimeconfig.json
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\Teste RH.dll
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\Teste RH.pdb
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dedehk\Desktop\Teste RH\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.csproj.AssemblyReference.cache
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.AssemblyInfoInputs.cache
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.AssemblyInfo.cs
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.csproj.CoreCompileInputs.cache
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\scopedcss\bundle\Teste RH.styles.css
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.csproj.CopyComplete
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.dll
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\refint\Teste RH.dll
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.pdb
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\Teste RH.genruntimeconfig.cache
+C:\Users\Dedehk\Desktop\Teste RH\obj\Debug\net6.0\ref\Teste RH.dll
